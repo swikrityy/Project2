@@ -18,5 +18,5 @@ Route::post('/store',[ContainerController::class,'store'])->name('store');
 
 Route::get('/edit', function () {
     return view('edit');
-});
+})->name('edit');
 

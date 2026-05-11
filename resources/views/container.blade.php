@@ -92,7 +92,7 @@
           <td>Build professional baking skills with hands-on practice and expert support.</td>
           <td>Contact Us</td>
           <td>
-            <button class="edit-btn">Edit</button>
+           <button class="edit-btn" > Edit</button>
             <button class="delete-btn">Delete</button>
           </td>
         </tr>
