@@ -20,3 +20,6 @@ Route::get('/edit', function () {
     return view('edit');
 })->name('edit');
 
+Route::get('/dashboard', function () {
+    return view('dashboard');
+});
